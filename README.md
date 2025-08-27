@@ -24,5 +24,3 @@ It demonstrates core Python concepts (functions, recursion, decorators, arrays/N
 - Functional Programming (Map/Reduce)  
 - Menu-Driven App Design  
 
-
-## 📂 File Structure
